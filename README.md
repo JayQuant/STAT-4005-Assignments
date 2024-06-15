@@ -1,4 +1,4 @@
-# STAT-4005-Assignments
+# Time Series Assignments using R
 
 This is a repository of R codes and R notebooks regarding assignments for STAT 4005 - Time Series. The course was taken in Term 2 of 2022.
 
